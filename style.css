@@ -84,3 +84,12 @@ p
     width: 50px;
     border-radius: 50px;
 }
+
+@media (max-width: 800px)
+{
+    body
+    {
+        text-align: center;
+        font-size: small;
+    }
+}
